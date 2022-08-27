@@ -1,4 +1,4 @@
-﻿id;day;month;year;N1;N2;N3;N4;N5
+id;day;month;year;N1;N2;N3;N4;N5
 4865;31;12;2019;6;8;12;31;40
 4864;30;12;2019;13;21;33;35;41
 4863;29;12;2019;1;5;9;14;35
@@ -364,4 +364,4 @@
 4503;03;01;2019;17;25;30;35;41
 4502;02;01;2019;5;8;14;29;39
 4501;01;01;2019;5;7;18;28;33
-"=HYPERLINK(""https://pewniaki.pl"";""Arkusz został wygenerowany na stronie https://pewniaki.pl"")"
+
